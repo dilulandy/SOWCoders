@@ -1,0 +1,15 @@
+
+.font {color: #660029}
+
+.topdiv {text-align: center;
+         border-bottom-style: solid;
+         border-color: #660029;
+         border-width: 1px
+         }
+
+.subtitle {font-size: 1.2em}
+
+table,th,td {border-style: solid;
+       border-color: #660029;
+       border-width: 1px;
+       border-collapse: collapse}
